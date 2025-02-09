@@ -32,7 +32,7 @@ Actualmente estoy profundizando en **LLMs (Large Language Models)** y algunas te
 ### ¡Hablemos!
 - 💬 **Pregúntame sobre**: Arquitectura de software, Python, desarrollo de microservicios, comunicación asíncrona, metodologías ágiles y, ahora, temas relacionados con LLMs.  
 - 📫 **Cómo contactarme**:  
-  - [LinkedIn](https://www.linkedin.com/in/jvaldesbit)  
+  - [LinkedIn](https://www.linkedin.com/in/juli%C3%A1n-vald%C3%A9s-bello-76aa21175/)
   - [GitHub](https://github.com/jvaldesbit)
 
 ### Fun Fact
